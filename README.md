@@ -1,5 +1,5 @@
 # Integradora II
-[![Contribuidores][contribuidores-shield]][contributors-url]
+Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
 
 # Equipos
 ## Equipo 1 Módulo: Cliente-Servidor
