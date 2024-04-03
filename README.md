@@ -1,5 +1,5 @@
 # NAD GLOBAL
-## Acerca del proyecto
+### Acerca del proyecto
 Aqui descripcion del proyecto
 
 # Equipos
