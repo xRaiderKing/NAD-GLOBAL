@@ -1,5 +1,6 @@
-# Integradora II
-Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
+# NAD GLOBAL
+## Acerca del proyecto:
+Aqui descripcion del proyecto
 
 # Equipos
 ## Equipo 1 Módulo: Cliente-Servidor
