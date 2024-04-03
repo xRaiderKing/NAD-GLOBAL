@@ -3,10 +3,10 @@ Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
 
 # Equipos
 ## Equipo 1 Módulo: Cliente-Servidor
-[![Contribuidores][contribuidores-shield]][contributors-url]
+Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
 ## Equipo 2 Módulo: Servidor
-[![Contribuidores][contribuidores-shield]][contributors-url]
+Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
 ## Equipo 3 Módulo: Historias Terminadas
-[![Contribuidores][contribuidores-shield]][contributors-url]
+Acerca del modulo Historias Terminadas [aquí](ruta/a/la/carpeta).
 ## Equipo 4 Módulo: Implementador
-[![Contribuidores][contribuidores-shield]][contributors-url]
+Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
