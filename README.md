@@ -15,7 +15,7 @@ Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
 ### Integrantes
 * Jesús Yael Padrón Grimaldo
 * Fernando Medina Arredondo
-* Carol Vanessa Martínez Gallegos
+* Carol Vanessa Gallegos Martínez
 * Everardo Guadalupe Torres Tovar
 * Miguel Ángel Rodríguez Mejia
 
