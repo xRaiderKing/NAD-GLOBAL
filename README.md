@@ -13,9 +13,11 @@ Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
 ## Equipo 2 Módulo: Servidor
 Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
 ### Integrantes
-* Elemento 1
-* Elemento 2
-* Elemento 3
+* Jesús Yael Padrón Grimaldo
+* Fernando Medina Arredondo
+* Carol Vanessa Martínez Gallegos
+* Everardo Guadalupe Torres Tovar
+* Miguel Ángel Rodríguez Mejia
 
 ## Equipo 3 Módulo: Historias Terminadas
 Acerca del modulo Historias Terminadas [aquí](ruta/a/la/carpeta).
