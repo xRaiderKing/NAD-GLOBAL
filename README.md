@@ -1,8 +1,16 @@
 # NAD GLOBAL
 ![Logo de la empresa](https://github.com/xRaiderKing/NAD-GLOBAL/blob/main/logonadglobal.png)
 
+## Conoce más acerca de NAD GLOBAL
+### ¿Que es NAD GLOBAL?
+### ¿Cómo nació?
+### ¿A que se dedica?
+Mas de NAD GLOBAL [aquí](https://www.nadglobal.com).
+
 ### Acerca del proyecto
 Aqui descripcion del proyecto
+
+### ¿Como se trabajo el proyecto?
 
 # Equipos
 ## Equipo 1 Módulo: Cliente-Servidor
