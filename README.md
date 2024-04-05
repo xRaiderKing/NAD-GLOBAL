@@ -21,11 +21,13 @@ Puedes acceder al Github del Servidor [aquí](https://github.com/zFerchou/Modulo
 * Miguel Ángel Rodríguez Mejia
 
 ## Equipo 3 Módulo: Historias Terminadas
-Acerca del modulo Historias Terminadas [aquí](ruta/a/la/carpeta).
+Puedes acceder al Github de Historias Terminadas [aquí](https://github.com/EstrellaAE/Modulo-Historias-Terminadas).
 ### Integrantes
-* Elemento 
-* Elemento 2
-* Elemento 3
+* Estrella Guadalupe Aguayo Exiga
+* Juan Diego Juárez Cruz
+* Valeria Gómez Herrera
+* Juan David Lara Robles
+* Eduardo Antonio Zapatero Arellano
 
 ## Equipo 4 Módulo: Implementador
 Puedes acceder a la carpeta de ejemplo [aquí](https://github.com/elizabethgutierrez27/Modulo-Implementador.git).
