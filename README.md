@@ -11,7 +11,7 @@ Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
 * Elemento 3
 
 ## Equipo 2 Módulo: Servidor
-Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
+Puedes acceder a la carpeta de ejemplo [aquí](https://github.com/zFerchou/Modulo-Servidor/blob/main/README.md).
 ### Integrantes
 * Jesús Yael Padrón Grimaldo
 * Fernando Medina Arredondo
