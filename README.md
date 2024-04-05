@@ -23,7 +23,7 @@ Puedes acceder al Github del Servidor [aquí](https://github.com/zFerchou/Modulo
 ## Equipo 3 Módulo: Historias Terminadas
 Acerca del modulo Historias Terminadas [aquí](ruta/a/la/carpeta).
 ### Integrantes
-* Elemento 1
+* Elemento 
 * Elemento 2
 * Elemento 3
 
