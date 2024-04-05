@@ -12,7 +12,7 @@ Puedes acceder a la carpeta de ejemplo [aquí](https://github.com/danonino25/Mod
 * Emilio Antonio Palacios Arvizu
 
 ## Equipo 2 Módulo: Servidor
-Puedes acceder a la carpeta de ejemplo [aquí](https://github.com/zFerchou/Modulo-Servidor/blob/main/README.md).
+Puedes acceder al Github del Servidor [aquí](https://github.com/zFerchou/Modulo-Servidor/blob/main/README.md).
 ### Integrantes
 * Jesús Yael Padrón Grimaldo
 * Luis Fernando Medina Arredondo
