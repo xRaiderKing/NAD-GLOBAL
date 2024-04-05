@@ -8,7 +8,7 @@ Puedes acceder a la carpeta de ejemplo [aquí](https://github.com/danonino25/Mod
 ### Integrantes
 * Ana María Barrientos Guerrero
 * Juan Díaz Prado
-* Miguel Alejandor Espinosa Guzmán
+* Miguel Alejandro Espinosa Guzmán
 * Emilio Antonio Palacios Arvizu
 
 ## Equipo 2 Módulo: Servidor
