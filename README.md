@@ -28,9 +28,11 @@ Acerca del modulo Historias Terminadas [aquí](ruta/a/la/carpeta).
 * Elemento 3
 
 ## Equipo 4 Módulo: Implementador
-Puedes acceder a la carpeta de ejemplo [aquí](ruta/a/la/carpeta).
+Puedes acceder a la carpeta de ejemplo [aquí](https://github.com/elizabethgutierrez27/Modulo-Implementador.git).
 ### Integrantes
-* Elemento 1
-* Elemento 2
-* Elemento 3
+* Arredondo Torrez Noah Noel
+* Gutierrez Olvera Elizabeth
+* Nuñez Godinez Josue Omar
+* Ramírez Cruz Oscar Ulises
+* Rangel Guerrero Alejandro
 
