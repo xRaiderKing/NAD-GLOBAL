@@ -1,5 +1,5 @@
 # NAD GLOBAL
-![Logo de la empresa]([https://github.com/xRaiderKing/NAD-GLOBAL/blob/main/logonadglobal.png])
+![Logo de la empresa](https://github.com/xRaiderKing/NAD-GLOBAL/blob/main/logonadglobal.png)
 
 ### Acerca del proyecto
 Aqui descripcion del proyecto
