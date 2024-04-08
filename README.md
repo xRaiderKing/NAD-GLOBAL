@@ -63,5 +63,5 @@ Puedes acceder al Github del Implementador [aquí](https://github.com/elizabethg
 * Gutierrez Olvera Elizabeth
 * Nuñez Godinez Josue Omar
 * Ramírez Cruz Oscar Ulises
-* Rangel Guerrero Alejandro
+* Rangel Perez Alejandro
 
