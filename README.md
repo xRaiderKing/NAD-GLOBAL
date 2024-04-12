@@ -17,8 +17,10 @@ Automotriz y autopartes, aeronáutico, transformación, eléctrico, electrónico
 Aqui descripcion del proyecto
 
 ### ¿Como se trabajo el proyecto?
+Se trabajo con la metodologia Scrum, nuestro caso el Lider de Proyecto Fue Geovanny y el Product Owner Jesus Yael
 
-### Objetivos
+### Objetivo principal
+El objetivo principal es actualizar el sistema "Management" para automatizar la gestión de información relacionada con los clientes y servidores de NAD GLOBAL. Esta solución reemplaza los antiguos formatos Excel por una serie de módulos con el fin de optimizar los procesos dentro del área de TIC.
 
 ### Organigrama del proyecto
 <img src="https://github.com/xRaiderKing/NAD-GLOBAL/blob/main/Organigrama.jpg">
