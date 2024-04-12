@@ -14,7 +14,7 @@ Automotriz y autopartes, aeronáutico, transformación, eléctrico, electrónico
 #### Mas de NAD GLOBAL [aquí](https://www.nadglobal.com).
 
 ### Acerca del proyecto
-Aqui descripcion del proyecto
+NAD GLOBAL está actualizando su sistema de gestión, conocido como "Management", para automatizar la gestión de datos de clientes y servidores. Esta actualización reemplaza los antiguos formatos Excel por una serie de módulos diseñados para optimizar los procesos dentro del área de Tecnologías de la Información y Comunicación (TIC). En esta actualización se trabajaron en los modulos Cliente-Servidor, Servidor, Historias terminadas, Implementador.
 
 ### ¿Como se trabajo el proyecto?
 Se trabajo con la metodologia Scrum, nuestro caso el Lider de Proyecto Fue Geovanny y el Product Owner Jesus Yael
@@ -28,8 +28,6 @@ El objetivo principal es actualizar el sistema "Management" para automatizar la 
 # Equipos
 ## Equipo 1 Módulo: Cliente-Servidor
 Puedes acceder al Github de Cliente-Servidor [aquí](https://github.com/danonino25/Modulo-Cliente-Servidor).
-### Funcionalidades
-
 ### Integrantes
 * Ana María Barrientos Guerrero
 * Juan Díaz Prado
@@ -38,8 +36,6 @@ Puedes acceder al Github de Cliente-Servidor [aquí](https://github.com/danonino
 
 ## Equipo 2 Módulo: Servidor
 Puedes acceder al Github del Servidor [aquí](https://github.com/zFerchou/Modulo-Servidor).
-### Funcionalidades
-
 ### Integrantes
 * Jesús Yael Padrón Grimaldo
 * Luis Fernando Medina Arredondo
@@ -49,8 +45,6 @@ Puedes acceder al Github del Servidor [aquí](https://github.com/zFerchou/Modulo
 
 ## Equipo 3 Módulo: Historias Terminadas
 Puedes acceder al Github de Historias Terminadas [aquí](https://github.com/EstrellaAE/Modulo-Historias-Terminadas).
-### Funcionalidades
-
 ### Integrantes
 * Estrella Guadalupe Aguayo Exiga
 * Juan Diego Juárez Cruz
@@ -60,8 +54,6 @@ Puedes acceder al Github de Historias Terminadas [aquí](https://github.com/Estr
 
 ## Equipo 4 Módulo: Implementador
 Puedes acceder al Github del Implementador [aquí](https://github.com/elizabethgutierrez27/Modulo-Implementador.git).
-### Funcionalidades
-
 ### Integrantes
 * Arredondo Torrez Noah Noel
 * Gutierrez Olvera Elizabeth
