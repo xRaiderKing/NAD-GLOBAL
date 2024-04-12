@@ -21,6 +21,7 @@ Aqui descripcion del proyecto
 ### Objetivos
 
 ### Organigrama del proyecto
+<img src="https://github.com/xRaiderKing/NAD-GLOBAL/blob/main/Organigrama.jpg">
 # Equipos
 ## Equipo 1 Módulo: Cliente-Servidor
 Puedes acceder al Github de Cliente-Servidor [aquí](https://github.com/danonino25/Modulo-Cliente-Servidor).
