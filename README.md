@@ -17,7 +17,7 @@ Automotriz y autopartes, aeronáutico, transformación, eléctrico, electrónico
 NAD GLOBAL está actualizando su sistema de gestión, conocido como "Management", para automatizar la gestión de datos de clientes y servidores. Esta actualización reemplaza los antiguos formatos Excel por una serie de módulos diseñados para optimizar los procesos dentro del área de Tecnologías de la Información y Comunicación (TIC). En esta actualización se trabajaron en los modulos Cliente-Servidor, Servidor, Historias terminadas, Implementador.
 
 ### ¿Como se trabajo el proyecto?
-Se trabajo con la metodologia Scrum, nuestro caso el Lider de Proyecto Fue Geovanny y el Product Owner Jesus Yael
+Se trabajó bajo la metodología Ágil Scrum, en la cual cada equipo cuenta con un Scrum Master dedicado.
 
 ### Objetivo principal
 El objetivo principal es actualizar el sistema "Management" para automatizar la gestión de información relacionada con los clientes y servidores de NAD GLOBAL. Esta solución reemplaza los antiguos formatos Excel por una serie de módulos con el fin de optimizar los procesos dentro del área de TIC.
